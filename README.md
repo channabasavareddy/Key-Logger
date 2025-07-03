@@ -68,7 +68,7 @@ This tool captures keyboard input and logs it to a file, simulating how basic ke
 ### Installation
 1. Clone the repository:
    git clone https://github.com/channabasavareddy/Key-Logger.git
-   cd keylogger-python
-Keylogger using Python is an educational project developed to simulate the behavior of keystroke logging tools for the purpose of cybersecurity training and malware behavior analysis.
+2. cd keylogger-python
+3. Run : keylogger.py
 
-⚠️ This project is for educational purposes only. It must not be used for unauthorized data collection or surveillance. 
+⚠️ This project is for educational purposes only. It must not be used for unauthorized data collection or surveillance. Always test responsibly in isolated environments.
